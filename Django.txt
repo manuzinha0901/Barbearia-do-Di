@@ -1,0 +1,14 @@
+Django é framework web de alto nível e de código aberto escrito em python. é a melhor ferramenta para sites. ele ajuda nos bancos de dados.
+
+usando model, que ajuda guardar os arquivos 
+models.py que se usa linguagem python 
+
+o Django ajuda a interagir todos os bancos de dados que ficam no arquivo model  
+
+exite um arquivo que se chama views que gerencia a lógica por tras de cada tela de cada link que é usada nos codigos.
+
+no arquivo views vc cria funções de forma separadas, por exemplo criar um login.
+
+também é usado templade que são arquivos de html, a onde é usado para fazer o frontend do seu site. 
+
+o django permite que eu crie uma unica base usando um único padrão, ele replica os padrões de templade 
